@@ -1,6 +1,6 @@
 # VisusAI - Deep Learning Training Pipeline 🧠
 
-Repositório sobre otreinamento do modelo de Visão Computacional para detecção de Retinopatia Diabética.
+Repositório sobre o treinamento do modelo de Visão Computacional para detecção de Retinopatia Diabética.
 
 ## 🔬 O Modelo
 Utilizei a **EfficientNet-B4** (PyTorch Image Models - timm) com Transfer Learning.
