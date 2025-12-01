@@ -30,5 +30,5 @@ Este projeto resolve desafios comuns de datasets médicos:
 
 
 ## 🔗 Deploy
-O modelo está em produção via FastAPI no Hugging Face: [Link do seu Space]
+O modelo está em produção via FastAPI no Hugging Face: [(https://huggingface.co/spaces/MarceloLask/visus-ai-api)]
 
