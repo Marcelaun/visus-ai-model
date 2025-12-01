@@ -1,6 +1,6 @@
 # VisusAI - Deep Learning Training Pipeline 🧠
 
-Repositório dedicado à engenharia e treinamento do modelo de Visão Computacional para detecção de Retinopatia Diabética.
+Repositório sobre otreinamento do modelo de Visão Computacional para detecção de Retinopatia Diabética.
 
 ## 🔬 O Modelo
 Utilizei a **EfficientNet-B4** (PyTorch Image Models - timm) com Transfer Learning.
@@ -26,8 +26,6 @@ Este projeto resolve desafios comuns de datasets médicos:
 * **Exemplo de Inferência**
 
 <img width="619" height="661" alt="image" src="https://github.com/user-attachments/assets/10a8a755-b4ed-4a5a-ba62-2728dc280067" />
-
-
 
 ## 🔗 Deploy
 O modelo está em produção via FastAPI no Hugging Face: [(https://huggingface.co/spaces/MarceloLask/visus-ai-api)]
