@@ -17,13 +17,17 @@ Este projeto resolve desafios comuns de datasets médicos:
 * **O dataset aptos2019 foi utilizado para treinar o modelo
 * **Disponível no Kaggle ou via [https://www.kaggle.com/c/aptos2019-blindness-detection]
 
-## 📂 Estrutura
-* `notebooks/`: Jupyter Notebooks com a análise exploratória e loop de treinamento.
-* `src/`: Scripts Python modulares.
-
 ## 📊 Resultados
 * **Kappa Score:** 0.90
-* **Acurácia:** 82%
+* **Acurácia:** 80%
+
+<img width="771" height="176" alt="image" src="https://github.com/user-attachments/assets/82987635-4e5a-498f-b7b8-5d36cab1e3de" />
+
+* ** Exemplo de Inferência
+
+<img width="619" height="661" alt="image" src="https://github.com/user-attachments/assets/10a8a755-b4ed-4a5a-ba62-2728dc280067" />
+
+
 
 ## 🔗 Deploy
 O modelo está em produção via FastAPI no Hugging Face: [Link do seu Space]
