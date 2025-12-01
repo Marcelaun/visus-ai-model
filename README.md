@@ -23,7 +23,7 @@ Este projeto resolve desafios comuns de datasets médicos:
 
 <img width="771" height="176" alt="image" src="https://github.com/user-attachments/assets/82987635-4e5a-498f-b7b8-5d36cab1e3de" />
 
-* ** Exemplo de Inferência
+* **Exemplo de Inferência**
 
 <img width="619" height="661" alt="image" src="https://github.com/user-attachments/assets/10a8a755-b4ed-4a5a-ba62-2728dc280067" />
 
